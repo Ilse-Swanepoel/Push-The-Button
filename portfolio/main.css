@@ -193,9 +193,9 @@ margin-right:7%;
   }
 
   
-  /* .navigation-bar{
+  .navigation-bar{
     display: none;
-  } */
+  }
   
   .burger-menu {
     display: flex;
@@ -218,15 +218,9 @@ margin-right:7%;
   }
 
   
-  }
-
-   .show-menu{
 
 
-  
-  }
-
-  .nav-item{
+  .close.nav-item {
     display: none;
   }
 
